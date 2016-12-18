@@ -1,0 +1,103 @@
+body{
+	margin:0;
+	font-family: arial;
+	font-size: 14pt;
+	color: black;
+}
+h2 {
+	color:#000000;
+	margin:14px auto;
+	text-align:center;
+}
+th
+{
+	background: #272822;
+	color:#FFFFFF;
+}
+a {
+	text-decoration:none;
+}
+p{
+	text-align:center;
+}
+#header{
+	background:#000000;
+}
+#menu {
+	background:#272822;
+}
+#menu h2, a
+{
+	color: #FFFFFF;
+}
+.content {
+	background:#FFFFFF;
+}
+.content a {
+	color: #000000;
+	text-align:center;
+}
+.content #makanan {
+	width:90%;
+}
+.content #minuman {
+	width:60%;	
+}
+.content #minuman th {
+	height:50px;	
+}
+.content #galeri {
+	width:98%;	
+}
+.content table,.content tr, .content td, .content th{
+	border:solid 2px #000000;
+	text-align:center;
+	margin:0 auto;
+	border-collapse:collapse;
+}
+#pemesan table
+{
+	width:90%;	
+	border-style:none;
+	margin:14px auto;
+}
+#pemesan tr, #pemesan td
+{
+	text-align: left;
+	vertical-align:top;
+}
+#galeri td{
+	width:22%;
+}
+#galeri th{
+	height:50px;
+}
+#galeri img{
+	width:98%;
+	height:150;
+}
+#galeri a
+{
+	color: #FFFFFF;
+}
+#detail table
+{
+	width:40%;
+	border-style:none;
+}
+#detail td
+{
+	width:50%;
+	text-align: center;
+}
+#detail img{
+	width:100%;
+	height:250;
+}
+#textheader
+{
+	color:#FFFFFF;
+	font-family:Impact;
+	font-size:40px;
+	text-align:center;
+}
